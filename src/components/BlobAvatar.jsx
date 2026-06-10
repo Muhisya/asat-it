@@ -2,7 +2,7 @@ import catasat from "/src/assets/catasat.jpg";
 
 export default function BlobAvatar() {
   return (
-    <div className="relative w-40 h-40 mb-8">
+    <div className="relative w-40 h-40 mb-8 transition-transform duration-300 ease-in-out hover:scale-105">
       <div
         className="absolute inset-0"
         style={{
@@ -18,7 +18,7 @@ export default function BlobAvatar() {
         <img
           src={catasat}
           alt="Hoshi Experience profile photo"
-          className="w-full h-full object-cover "
+          className="w-full h-full object-cover"
         />
       </div>
     </div>
