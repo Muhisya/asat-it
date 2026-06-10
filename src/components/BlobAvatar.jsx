@@ -14,7 +14,7 @@ export default function BlobAvatar() {
         style={{ borderRadius: "60% 40% 30% 70% / 60% 30% 70% 40%" }}
       >
         <img
-          src="/src/assets/catp.jpg"
+          src="/src/assets/catasat.jpg"
           alt="Hoshi Experience profile photo"
           className="w-full h-full object-cover "
         />
