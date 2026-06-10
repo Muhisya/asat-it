@@ -26,7 +26,7 @@ export default function Hero() {
         <a href="#" className="px-7 py-3 rounded-xl font-bold text-black bg-amber-400 hover:bg-amber-300 transition-colors">
           Get In Touch
         </a>
-        <a href="#" className="px-7 py-3 rounded-xl font-bold text-white border border-zinc-700 bg-zinc-900 hover:border-zinc-500 transition-colors">
+        <a href="https://muhisya.netlify.app/" className="px-7 py-3 rounded-xl font-bold text-white border border-zinc-700 bg-zinc-900 hover:border-zinc-500 transition-colors">
           View Projects
         </a>
       </div>
